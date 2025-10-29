@@ -1,0 +1,60 @@
+*{
+  margin: 1;
+}
+
+.sobre{
+  border: 2px solid black;
+  text-align: left;
+  color: black
+  font-weight: bold;
+  font-size: larger;
+  
+  }
+.formacao{
+  border: 2px solid black;
+  text-align: left;
+  color: black
+  font-weight: bold;
+  font-size: larger;
+    }
+
+  .projetos{
+  border: 2px solid black;
+  text-align: left;
+  color: black
+  font-weight: bold;
+  font-size: larger;
+    }
+
+
+#container{
+  display: flex;
+  justify-content: center;
+  
+.linkedin{
+  
+  font-weight: bold;
+  font-size: larger;
+  text-align: justify;
+}  
+
+.whatssap{
+  
+  font-weight: bold;
+  font-size: larger;
+  text-align: justify;
+}  
+
+.github{
+  
+  font-weight: bold;
+  font-size: larger;
+  text-align: justify;
+}  
+}  
+
+.rodape{
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+  }
